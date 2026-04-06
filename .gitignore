@@ -2,3 +2,6 @@
 *.log
 .env
 .env.*
+
+# Internal planning — not for version control
+PLAN.md
