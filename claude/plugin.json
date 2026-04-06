@@ -2,7 +2,7 @@
   "name": "ai-toolkit",
   "version": "0.1.0",
   "description": "Shared AI skills and commands for Java professionals — Claude plugin",
-  "author": "born_to_be_mad",
-  "repository": "https://github.com/born_to_be_mad/ai-toolkit",
+  "author": "born-to-be-mad",
+  "repository": "https://github.com/born-to-be-mad/ai-toolkit",
   "skillsDir": "./skills"
 }
